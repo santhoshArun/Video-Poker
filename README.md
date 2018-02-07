@@ -1,2 +1,2 @@
-# VideoPoker
-video poker game coded using java
+
+Java program for Video Poker (Full Version)
